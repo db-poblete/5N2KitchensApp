@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aI2C6bSUJ1ylrZ+u5tagCWcbDZz/KSMZC/+KWjTexudgdFg4cKYxchvja1UvBpxvVv6W0LzujbZGCsy9l386wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\5N2 Kitchens App\\5N2 Kitchens App\\5N2 Kitchens App.iOS\\5N2 Kitchens App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2515\\xamarin.forms.maps.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

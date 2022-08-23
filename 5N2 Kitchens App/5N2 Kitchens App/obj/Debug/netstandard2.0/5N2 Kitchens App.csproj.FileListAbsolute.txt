@@ -1,0 +1,18 @@
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\bin\Debug\netstandard2.0\5N2 Kitchens App.deps.json
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\bin\Debug\netstandard2.0\5N2 Kitchens App.dll
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\bin\Debug\netstandard2.0\5N2 Kitchens App.pdb
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\Views\AboutUsPage.xaml.g.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.AssemblyInfo.cs
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.dll
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\refint\5N2 Kitchens App.dll
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\5N2 Kitchens App.pdb
+C:\Users\diego\source\repos\5N2 Kitchens App\5N2 Kitchens App\5N2 Kitchens App\obj\Debug\netstandard2.0\ref\5N2 Kitchens App.dll

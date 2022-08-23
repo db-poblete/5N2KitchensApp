@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_5N2_Kitchens_App.Views.AboutUsPage"
+             xmlns:vm="clr-namespace:_5N2_Kitchens_App.ViewModels"
+             Title="{Binding Title}"
+             BackgroundColor="White">
+
+    <ContentPage.BindingContext>
+        <vm:AboutUsViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="LabelColor">Black</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid >
+        <StackLayout>
+            <Label>How We Got Started</Label>
+            <Label>5n2 was founded by Seema David in 2013. Seema immigrated to Canada in 2007 and while commuting to work downtown each day, she was shocked by the homelessness that was evident on the streets of Toronto. At the same time, she was meeting other new immigrants in Scarborough who were struggling to feed their families.
+
+                Determined to help her community, Seema began to serve soup three days a week. 5n2 Kitchens was birthed, operating out of a shared space at the Global Kingdom Ministries church kitchen.
+
+                In early 2019, 5n2 moved into its own space. We continued to expand our operations in order to keep up with the growing issues surrounding food insecurity.
+                Currently, we are serving over 3500 meals at 13 locations each week and supplying much needed grocery hampers to the more isolated in our neighborhoods.
+                Alongside our kitchen, we run additional programs such as 5n2 Food Pantry and 5n2 Community Garden.
+            </Label>
+            <Label>Who We Serve</Label>
+            <Label>
+                We strive to minimize poverty, hunger and food insecurity in our communities. We work with partner organizations to bring fresh, warm meals to local residents, serving at food banks, shelters, seniors buildings, drop-in centres and apartment buildings.
+            </Label>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
